@@ -1,0 +1,38 @@
+[
+    {
+        "id": 3,
+        "name": "sonu",
+        "age": 26,
+        "grade": "c+",
+        "marks": [
+            44,
+            45,
+            65
+        ],
+        "average": 51.33
+    },
+    {
+        "id": 2,
+        "name": "Priya Verma",
+        "age": 21,
+        "grade": "B",
+        "marks": [
+            70,
+            75,
+            72
+        ],
+        "average": 72.33
+    },
+    {
+        "id": 4,
+        "name": "Keshav Yadav",
+        "age": 22,
+        "grade": "A",
+        "marks": [
+            88,
+            92,
+            79
+        ],
+        "average": 86.33
+    }
+]
